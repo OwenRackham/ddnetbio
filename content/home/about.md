@@ -33,7 +33,7 @@ weight = 5
  
 +++
 
-# Biography
+# What we do?
 
 In the past hypothesis-driven research in the life sciences has been the domain of experimental biologists, with the role of biostatisticians and bioinformaticians being one of support. This is no longer the case. As the “data-deluge” continues our research focuses on how to use biological “big-data” in order to create and test hypotheses.
 
