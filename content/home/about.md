@@ -8,33 +8,33 @@ date = 2016-04-20T00:00:00
 weight = 5
 
 # List your academic interests.
-[interests]
-  interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
-  ]
+# [interests]
+#   interests = [
+#     "Reprogramming",
+#     "Computational Biology",
+#     "Information Retrieval"
+#   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+# [[education.courses]]
+#   course = "PhD in Artificial Intelligence"
+#   institution = "Stanford University"
+#   year = 2012
 
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+# [[education.courses]]
+#   course = "MEng in Artificial Intelligence"
+#   institution = "Massachusetts Institute of Technology"
+#   year = 2009
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+# [[education.courses]]
+#   course = "BSc in Artificial Intelligence"
+#   institution = "Massachusetts Institute of Technology"
+#   year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+In the past hypothesis-driven research in the life sciences has been the domain of experimental biologists, with the role of biostatisticians and bioinformaticians being one of support. This is no longer the case. As the “data-deluge” continues our research focuses on how to use biological “big-data” in order to create and test hypotheses.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Our primary research interest is in understanding how genes and drugs can coordinate changes in cellular phenotypes and we use this to treat disease directly or initiate transdifferentiations that can underpin cell therapy. We  approach these problems through the integration of varied data sources, the development of machine-learning algorithms and close collaboration with experimental scientists.
